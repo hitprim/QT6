@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ru_RU">
+<context>
+    <name>MainWindow</name>
+    <message>
+        <location filename="mainwindow.ui" line="14"/>
+        <source>MainWindow</source>
+        <translation>Гл</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="89"/>
+        <source>...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="18"/>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="19"/>
+        <source>FAQ</source>
+        <translation>Справка</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="20"/>
+        <source>Save</source>
+        <translation>Сохр</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="21"/>
+        <source>Read only</source>
+        <translation>Чтение</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="24"/>
+        <source>Text file(*.txt)</source>
+        <translation>Text file(*.txt)</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="25"/>
+        <source>English</source>
+        <translation>Англ</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="26"/>
+        <source>Russian</source>
+        <translation>Рус</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="30"/>
+        <source>Language</source>
+        <translation>Язык</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="72"/>
+        <source>Save file</source>
+        <translation>Сохр файл</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="92"/>
+        <location filename="mainwindow.cpp" line="118"/>
+        <source>Open file</source>
+        <translation>Открыть файлл</translation>
+    </message>
+</context>
+</TS>
