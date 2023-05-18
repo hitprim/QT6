@@ -82,7 +82,7 @@ Window {
 
                 }
 
-                if(!_deadline.text.match(/^\d{1,2}\.\d{1,2}\.\{4}$/)){
+                if(!_deadline.text.match(/^\d{1,2}\.\d{1,2}\.\d{4}$/)){
 
                     _messageDialog.text = "Wrong Date Field"
                     _messageDialog.visible = true
